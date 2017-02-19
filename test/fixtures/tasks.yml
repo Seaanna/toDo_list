@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  todo_list_id: 1
+  sort_order: 1
+  start: 2017-02-19 10:01:10
+
+two:
+  name: MyString
+  todo_list_id: 1
+  sort_order: 1
+  start: 2017-02-19 10:01:10
